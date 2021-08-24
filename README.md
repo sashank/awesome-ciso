@@ -13,8 +13,9 @@ Collection of resources to empower Chief Information Security Officers(CISO)
 ## Policy Templates
 - A comprehensive list of policy documents from [SANS](https://www.sans.org/information-security-policy/)
 
-## Security Operations Centre
+## Security Operations
 - A simple spreadsheet to assess the maturity of Security Operations Centre [SOC CMM Maturity Tool](https://www.soc-cmm.com/downloads/latest/) 
+- A simple tool to understand your cyber defenses across asset types - [Cyber Defense Matrix](https://cyberdefensematrix.com/)
 
 ## Budget  
 - A simple spreadsheet to plan and manage Infosec Budgets [Infosec Budget Tool](https://github.com/sashank/awesome-ciso/blob/main/InfoSecBudget_v1.0.2.xlsm) - Author Terry Gold
