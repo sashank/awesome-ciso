@@ -3,6 +3,7 @@ Collection of resources to empower Chief Information Security Officers(CISO)
 
 ## Risk Management
 - Risk Quantification [Collection of Tools, Papers, Books](https://github.com/veeral-patel/awesome-risk-quantification)
+- Tool to conduct repeatable Risk Assessments [Monarc](https://www.monarc.lu/)
 
 ## Compliance
 - ISO 27001 - 2013 Security [Tool kit](https://www.iso27001security.com/html/toolkit.html) 
