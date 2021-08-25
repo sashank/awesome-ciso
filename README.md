@@ -24,3 +24,37 @@ Collection of resources to empower Chief Information Security Officers(CISO)
 ## Budget  
 - A simple spreadsheet to plan and manage Infosec Budgets [Infosec Budget Tool](https://github.com/sashank/awesome-ciso/blob/main/InfoSecBudget_v1.0.2.xlsm) - Author Terry Gold
 
+## Other collections
+- https://github.com/Hack-with-Github/Awesome-Hacking
+- https://github.com/josephmisiti/awesome-machine-learning
+- https://github.com/s0md3v/AwesomeXSS
+- https://github.com/sbilly/awesome-security
+- https://github.com/hslatman/awesome-threat-intelligence
+- https://github.com/rshipp/awesome-malware-analysis
+- https://github.com/vitalysim/Awesome-Hacking-Resources
+- https://github.com/dastergon/awesome-sre
+- https://github.com/qazbnm456/awesome-web-security
+- https://github.com/jivoi/awesome-ml-for-cybersecurity
+- https://github.com/ashishb/android-security-awesome
+- https://github.com/0xInfection/Awesome-WAF
+- https://github.com/meirwah/awesome-incident-response
+- https://github.com/onlurking/awesome-infosec
+- https://github.com/paragonie/awesome-appsec
+- https://github.com/donnemartin/awesome-aws
+- https://github.com/kuchin/awesome-cto
+- https://github.com/keon/awesome-nlp
+- https://github.com/devsecops/awesome-devsecops
+- https://github.com/infoslack/awesome-web-hacking
+- https://github.com/W00t3k/Awesome-Cellular-Hacking
+- https://github.com/tylerha97/awesome-reversing
+- https://github.com/sobolevn/awesome-cryptography
+- https://github.com/DopplerHQ/awesome-bots
+- https://github.com/djadmin/awesome-bug-bounty
+- https://github.com/wtsxDev/reverse-engineering
+- https://github.com/qazbnm456/awesome-cve-poc
+- https://github.com/fasouto/awesome-dataviz
+- https://github.com/dastergon/awesome-chaos-engineering
+- https://github.com/coreb1t/awesome-pentest-cheat-sheets
+- https://github.com/keon/awesome-nlp
+- https://github.com/cugu/awesome-forensics
+
