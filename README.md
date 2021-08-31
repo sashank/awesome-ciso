@@ -24,6 +24,11 @@ Collection of resources to empower Chief Information Security Officers(CISO)
 ## Budget  
 - A simple spreadsheet to plan and manage Infosec Budgets [Infosec Budget Tool](https://github.com/sashank/awesome-ciso/blob/main/InfoSecBudget_v1.0.2.xlsm) - Author Terry Gold
 
+## Podcasts
+- https://cisoseries.com/podcast/
+- https://www.cisodojo.pro/
+- https://ciso.eccouncil.org/global-ciso-forum-podcast/
+
 ## Other collections
 - https://github.com/Hack-with-Github/Awesome-Hacking
 - https://github.com/josephmisiti/awesome-machine-learning
