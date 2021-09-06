@@ -1,10 +1,16 @@
 # awesome-ciso
 Collection of resources to empower Chief Information Security Officers(CISO)
 
+## Board Meeting Resources
+- Cybersecurity Toolkit for Boards from [NCSC](https://www.ncsc.gov.uk/files/NCSC%20Cyber%20Security%20Toolkit%20for%20Boards.pdf)
+- Reporting cybersecurity to boards from [Institute of Directors, NZ](https://www.iod.org.nz/resources-and-insights/guides-and-resources/reporting-cybersecurity-to-boards/)
+- Board Presentation templates from [Balbix](https://www.balbix.com/blog/6-slides-every-ciso-should-use-in-their-board-presentation/) 
+
 ## Risk Management
 - Risk Quantification [Collection of Tools, Papers, Books](https://github.com/veeral-patel/awesome-risk-quantification)
 - Tool to conduct repeatable Risk Assessments [Monarc](https://www.monarc.lu/)
 - Open Information Security Risk Universe - Framework and Taxonomy for Information Risks [OSRU](https://oisru.org/)
+
 
 ## Compliance
 - ISO 27001 - 2013 Security [Tool kit](https://www.iso27001security.com/html/toolkit.html) 
