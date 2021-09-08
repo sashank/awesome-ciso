@@ -12,6 +12,8 @@ Collection of resources to empower Chief Information Security Officers(CISO)
 - Tool to conduct repeatable Risk Assessments [Monarc](https://www.monarc.lu/)
 - Open Information Security Risk Universe - Framework and Taxonomy for Information Risks [OSRU](https://oisru.org/)
 
+## Books
+- [The CISO Handbook A Practical Guide to Securing Your Company](https://www.google.co.in/books/edition/The_CISO_Handbook/iEuBcUrv600C?hl=en)
 
 ## Compliance
 - ISO 27001 - 2013 Security [Tool kit](https://www.iso27001security.com/html/toolkit.html) 
@@ -31,6 +33,7 @@ Collection of resources to empower Chief Information Security Officers(CISO)
 ## Budget  
 - A simple spreadsheet to plan and manage Infosec Budgets [Infosec Budget Tool](https://github.com/sashank/awesome-ciso/blob/main/InfoSecBudget_v1.0.2.xlsm) - Author Terry Gold
 
+- 
 ## Podcasts
 - https://cisoseries.com/podcast/
 - https://www.cisodojo.pro/
