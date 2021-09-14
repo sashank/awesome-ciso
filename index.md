@@ -1,37 +1,74 @@
-## Welcome to GitHub Pages
+# awesome-ciso
+Collection of resources to empower Chief Information Security Officers(CISO)
 
-You can use the [editor on GitHub](https://github.com/sashank/awesome-ciso/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Board Meeting Resources
+- [Cybersecurity Risk Management Oversight: A Tool for Board Members](https://www.thecaq.org/cybersecurity-risk-management-oversight-tool-board-members/) from Center for Audit Quality
+- [Cybersecurity Toolkit for Boards](https://www.ncsc.gov.uk/files/NCSC%20Cyber%20Security%20Toolkit%20for%20Boards.pdf)from National Cyber Security Centre, UK
+- [Reporting cybersecurity to Boards](https://www.iod.org.nz/resources-and-insights/guides-and-resources/reporting-cybersecurity-to-boards/) from Institute of Directors, NZ
+- [Board Presentation templates](https://www.balbix.com/blog/6-slides-every-ciso-should-use-in-their-board-presentation/) from Balbix
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Risk Management
+- Risk Quantification [Collection of Tools, Papers, Books](https://github.com/veeral-patel/awesome-risk-quantification)
+- Tool to conduct repeatable Risk Assessments [Monarc](https://www.monarc.lu/)
+- Open Information Security Risk Universe - Framework and Taxonomy for Information Risks [OSRU](https://oisru.org/)
 
-### Markdown
+## Books
+- [The CISO Handbook A Practical Guide to Securing Your Company](https://www.google.co.in/books/edition/The_CISO_Handbook/iEuBcUrv600C?hl=en)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Compliance
+- ISO 27001 - 2013 Security [Tool kit](https://www.iso27001security.com/html/toolkit.html) 
+- A simple spreadsheet to that provides mappings across many Compliance Controls, (Sign in Required), [Secure Controls Framework ](https://www.securecontrolsframework.com/). 
+- Cloud Controls Framework from CSA [CCM](https://cloudsecurityalliance.org/research/cloud-controls-matrix/)
+- Security Questionnaire for Consensus based Assessments for audting a Cloud Provider from CSA [CAIQ](https://cloudsecurityalliance.org/artifacts/star-level-1-security-questionnaire-caiq-v4/)
 
-```markdown
-Syntax highlighted code block
+## Policy Templates
+- A comprehensive list of policy documents from [SANS](https://www.sans.org/information-security-policy/)
 
-# Header 1
-## Header 2
-### Header 3
+## Security Operations
+- A simple spreadsheet to assess the maturity of Security Operations Centre [SOC CMM Maturity Tool](https://www.soc-cmm.com/downloads/latest/) 
+- A simple tool to understand your cyber defenses across asset types - [Cyber Defense Matrix](https://cyberdefensematrix.com/)
+- A comprehensive collection of resources to select SIEM (Sign In Required) from [InfoTech](https://www.infotech.com/research/ss/select-and-implement-a-siem-solution)
+## Skills & Trainings
+- Simple list of core proficiencies needed [pdf](https://github.com/sashank/awesome-ciso/blob/main/CISO_Core_Proficiency.pdf) - Author : Chintan Gurjar
+## Budget  
+- A simple spreadsheet to plan and manage Infosec Budgets [Infosec Budget Tool](https://github.com/sashank/awesome-ciso/blob/main/InfoSecBudget_v1.0.2.xlsm) - Author Terry Gold
 
-- Bulleted
-- List
+- 
+## Podcasts
+- https://cisoseries.com/podcast/
+- https://www.cisodojo.pro/
+- https://ciso.eccouncil.org/global-ciso-forum-podcast/
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sashank/awesome-ciso/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Other collections
+- https://github.com/Hack-with-Github/Awesome-Hacking
+- https://github.com/josephmisiti/awesome-machine-learning
+- https://github.com/s0md3v/AwesomeXSS
+- https://github.com/sbilly/awesome-security
+- https://github.com/hslatman/awesome-threat-intelligence
+- https://github.com/rshipp/awesome-malware-analysis
+- https://github.com/vitalysim/Awesome-Hacking-Resources
+- https://github.com/dastergon/awesome-sre
+- https://github.com/qazbnm456/awesome-web-security
+- https://github.com/jivoi/awesome-ml-for-cybersecurity
+- https://github.com/ashishb/android-security-awesome
+- https://github.com/0xInfection/Awesome-WAF
+- https://github.com/meirwah/awesome-incident-response
+- https://github.com/onlurking/awesome-infosec
+- https://github.com/paragonie/awesome-appsec
+- https://github.com/donnemartin/awesome-aws
+- https://github.com/kuchin/awesome-cto
+- https://github.com/keon/awesome-nlp
+- https://github.com/devsecops/awesome-devsecops
+- https://github.com/infoslack/awesome-web-hacking
+- https://github.com/W00t3k/Awesome-Cellular-Hacking
+- https://github.com/tylerha97/awesome-reversing
+- https://github.com/sobolevn/awesome-cryptography
+- https://github.com/DopplerHQ/awesome-bots
+- https://github.com/djadmin/awesome-bug-bounty
+- https://github.com/wtsxDev/reverse-engineering
+- https://github.com/qazbnm456/awesome-cve-poc
+- https://github.com/fasouto/awesome-dataviz
+- https://github.com/dastergon/awesome-chaos-engineering
+- https://github.com/coreb1t/awesome-pentest-cheat-sheets
+- https://github.com/keon/awesome-nlp
+- https://github.com/cugu/awesome-forensics
