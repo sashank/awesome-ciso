@@ -28,12 +28,13 @@ Collection of resources to empower Chief Information Security Officers(CISO)
 - A simple spreadsheet to assess the maturity of Security Operations Centre [SOC CMM Maturity Tool](https://www.soc-cmm.com/downloads/latest/) 
 - A simple tool to understand your cyber defenses across asset types - [Cyber Defense Matrix](https://cyberdefensematrix.com/)
 - A comprehensive collection of resources to select SIEM (Sign In Required) from [InfoTech](https://www.infotech.com/research/ss/select-and-implement-a-siem-solution)
+
 ## Skills & Trainings
 - Simple list of core proficiencies needed [pdf](https://github.com/sashank/awesome-ciso/blob/main/CISO_Core_Proficiency.pdf) - Author : Chintan Gurjar
+
 ## Budget  
 - A simple spreadsheet to plan and manage Infosec Budgets [Infosec Budget Tool](https://github.com/sashank/awesome-ciso/blob/main/InfoSecBudget_v1.0.2.xlsm) - Author Terry Gold
 
-- 
 ## Podcasts
 - https://cisoseries.com/podcast/
 - https://www.cisodojo.pro/
